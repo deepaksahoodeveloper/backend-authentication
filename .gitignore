@@ -7,6 +7,7 @@ __pycache__/
 # Virtual environment
 venv/
 env/
+_authenv/
 
 # Local settings
 local_settings.py
