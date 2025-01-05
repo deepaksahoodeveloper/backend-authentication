@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'rest_framework',  # Add DRF
+    'b_app_auth',  # Add the new app
 ]
 
 MIDDLEWARE = [
