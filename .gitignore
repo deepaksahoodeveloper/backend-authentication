@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Local settings
+local_settings.py
+
+# Static files (if managed by Django)
+static/
+
+# Media files (if managed by Django)
+media/
+
+# Django database
+db.sqlite3
+
+# PyCharm project configuration
+.idea/
+
+# Other IDEs
+.vscode/
+.DS_Store
